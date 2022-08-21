@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-08-21T09:57:54.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="vEzr7uknFpxfEAfmqxP1" version="20.2.5" type="github"><diagram id="px661Hte9X-vnQ6gpHhr" name="Page-1">zZdNb4MgGIB/jccmIrUfx822+062dcmS3ZhSZUMwFKftrx9O1BLSZDsscmngeQHpwwuiB6O8vhKoyB54gqkX+EntwZUXBEsA1W8DDi2YBfMWpIIkLQID2JIj1tDXtCQJ3hsNJedUksKEMWcMx9JgSAhemc12nJpPLVCKLbCNEbXpK0lk1tJF6A/8GpM0654MfB3JUddYg32GEl6dILj2YCQ4l20pryNMG3edl7bf5ky0n5jATP6mQ34LP5+f7nbi+FhcTI4fb/7LZqJH+UK01H94hSRS5IYVpdQTl4fOhuAlS3AzoO/ByyojEm8LFDfRSi2/YpnMqaoBVdRDYyFxfXbOoDehMgjzHEtxUE10BzjT8nT2LHS1GpYCBGHLspNlmOp2SK9+2o88CFIF7egPvoJzvta1FCiWhDPnpIFwbGtT2xrOedocGCRWgdahY9r6jTuattDSdhOtJs3J6Kix5djGZnaiEZQyvpcu5Rk0rPUWR7M2t6zdo3dXdU1H35YLO8lEmTrra/R35tLyFVHCiLpjuePMPMjC0d+Y3fXX3JPYWWMz8H/GVHW4Jf/ETj414Pob</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-21T10:00:54.107Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="RyNmUvB_hyCFYk-9dF9f" version="20.2.5" type="github">
+  <diagram id="px661Hte9X-vnQ6gpHhr" name="Page-1">
+    <mxGraphModel dx="776" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mJ3kRQKfrzPpA-zjZ0TF-1" value="Data Input" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="80" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mJ3kRQKfrzPpA-zjZ0TF-2" value="Data Extraction" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="150" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mJ3kRQKfrzPpA-zjZ0TF-4" value="Demographic Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="240" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mJ3kRQKfrzPpA-zjZ0TF-5" value="ICD-10 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="240" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mJ3kRQKfrzPpA-zjZ0TF-6" value="Diagnostic Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="363" y="360" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mJ3kRQKfrzPpA-zjZ0TF-7" value="Lab Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="363" y="420" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mJ3kRQKfrzPpA-zjZ0TF-8" value="Drug Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="363" y="480" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mJ3kRQKfrzPpA-zjZ0TF-9" value="Clinical Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="550" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mJ3kRQKfrzPpA-zjZ0TF-10" value="Label Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="610" width="125" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
