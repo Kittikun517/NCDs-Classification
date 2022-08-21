@@ -1,35 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2022-08-21T10:00:54.107Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="RyNmUvB_hyCFYk-9dF9f" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-21T10:48:16.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="chNU1VQqLsuUV6s3k7vK" version="20.2.5" type="github">
   <diagram id="px661Hte9X-vnQ6gpHhr" name="Page-1">
-    <mxGraphModel dx="776" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1293" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mJ3kRQKfrzPpA-zjZ0TF-1" value="Data Input" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="80" width="125" height="40" as="geometry" />
+          <mxGeometry x="520" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mJ3kRQKfrzPpA-zjZ0TF-2" value="Data Extraction" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="150" width="125" height="40" as="geometry" />
+          <mxGeometry x="520" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mJ3kRQKfrzPpA-zjZ0TF-4" value="Demographic Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="240" width="125" height="40" as="geometry" />
+          <mxGeometry x="40" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mJ3kRQKfrzPpA-zjZ0TF-5" value="ICD-10 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="240" width="125" height="40" as="geometry" />
+          <mxGeometry x="200" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mJ3kRQKfrzPpA-zjZ0TF-6" value="Diagnostic Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="363" y="360" width="125" height="40" as="geometry" />
+          <mxGeometry x="360" y="240" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mJ3kRQKfrzPpA-zjZ0TF-7" value="Lab Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="363" y="420" width="125" height="40" as="geometry" />
+          <mxGeometry x="520" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mJ3kRQKfrzPpA-zjZ0TF-8" value="Drug Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="363" y="480" width="125" height="40" as="geometry" />
+          <mxGeometry x="680" y="240" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mJ3kRQKfrzPpA-zjZ0TF-9" value="Clinical Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="550" width="125" height="40" as="geometry" />
+          <mxGeometry x="840" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mJ3kRQKfrzPpA-zjZ0TF-10" value="Label Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="610" width="125" height="40" as="geometry" />
+          <mxGeometry x="1000" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vsdOsVDOJQ1UIhfhYnLK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
